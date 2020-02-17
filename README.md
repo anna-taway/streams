@@ -34,7 +34,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Navigation with React Router
 
-The [React-Router-dom] (https://www.npmjs.com/package/react-router-dom) ensures navigation into the application.
+The [React-Router-dom](https://www.npmjs.com/package/react-router-dom) ensures navigation into the application.
 
 ### Json Server Package
 
