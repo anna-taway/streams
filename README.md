@@ -29,7 +29,7 @@ The rtmpserver folder contains [Node-Media-Server](https://github.com/illuspas/N
 
 ## Real Time Messaging Protocol (RTMP)
 
-Use [Open Broadcaster Software (OBS)](https://obsproject.com/fr) and [Real Time Messaging Protocol (RTMP) Server](https://www.adobe.com/devnet/rtmp.html)) to broadcast streamers' video inside the application
+Use [Open Broadcaster Software (OBS)](https://obsproject.com/fr) and [Real Time Messaging Protocol (RTMP) Server](https://www.adobe.com/devnet/rtmp.html) to broadcast streamers' video inside the application
 
 ## React App Component
 
@@ -59,8 +59,7 @@ To get our user's email and basic profile information, we are going to use a sco
 
 #### Gapi library
 
-Use a Google Authentication Component
-Make sure the libraries gapi get called any time the user clicks on 'Sign-In' button.
+Use a Google Authentication Component. Make sure the libraries gapi get called any time the user clicks on 'Sign-In' button.
 
 How to interact with gapi library ?
 We are using getAuthInstance which returns the GoogleAuth object, that has different functions assigned to it that allow us to figure out if the user is signed in thanks to event listener. 
