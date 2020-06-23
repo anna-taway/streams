@@ -1,3 +1,8 @@
+# Streams Twitch
+
+[![HitCount](http://hits.dwyl.com/JananyMano/streams.svg)](http://hits.dwyl.com/JananyMano/streams)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
