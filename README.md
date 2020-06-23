@@ -1,3 +1,6 @@
+# Streams Twitch
+
+[![HitCount](http://hits.dwyl.com/JananyMano/streams.svg)](http://hits.dwyl.com/JananyMano/streams)
 
 This app works like [Twitch](https://www.twitch.tv/), which is used by people all over the world to record video on their desktop and stream it live to viewers across the world, so other can view streamer. The application is popular for video gaming.
 
